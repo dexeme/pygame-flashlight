@@ -21,6 +21,10 @@
     <img width="325" src="https://cdn.discordapp.com/attachments/922131891799343166/1061794088548061204/Design_sem_nome_2.gif">
 </p>
 
+## Download Flashlight
+
+You can download Flashlight by clicking [here](https://linktodocumentation)
+
 ## Run Locally
 
 Clone the project
