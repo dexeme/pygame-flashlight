@@ -21,9 +21,13 @@
     <img width="325" src="https://cdn.discordapp.com/attachments/922131891799343166/1061794088548061204/Design_sem_nome_2.gif">
 </p>
 
+## Run in browser
+
+You can run the game in your browser by clicking [here](https://demexe.github.io/portfolio/Flashlight/build/web/flashlight.html)
+
 ## Download Flashlight
 
-You can download Flashlight by clicking [here](https://linktodocumentation)
+You can download Flashlight by clicking [here](https://memataexe.itch.io/flashlight-pygame-game)
 
 ## Run Locally
 
